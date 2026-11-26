@@ -3,7 +3,7 @@
 - **Mã đề:** 04
 - **Họ tên:Phạm Tuấn Anh**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/phamtuananhmu3-star/K26CNTT2_PromptAI_H02_Pha1_Pha2**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
